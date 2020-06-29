@@ -3,5 +3,5 @@
 
 ## 3. Array
 
-- [README](./docs/README.md)  
+- [README](docs/array.md)  
 - LeetCode [118](./src/118_Pascal_Triangle.js) [121](./src/121_Best_Time_to_Buy_and_Sell_Stock.js)
