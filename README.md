@@ -5,3 +5,8 @@
 
 - [README](src/array/README.md)  
 - LeetCode [118](leetcode/118_Pascal_Triangle.js) [121](leetcode/121_Best_Time_to_Buy_and_Sell_Stock.js)
+
+## 4. Stack
+
+- [README](src/stack/README.md)
+- LeetCode [496](leetcode/496_Next_Greater_Element_I.js)
