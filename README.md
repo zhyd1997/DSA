@@ -10,3 +10,7 @@
 
 - [README](src/stack/README.md)
 - LeetCode [496](leetcode/496_Next_Greater_Element_I.js)
+
+## 5. Queue and Deque
+
+- [README](src/queue/README.md)
